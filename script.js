@@ -28,8 +28,9 @@ console.log("working");  */
      // tabledata = tabledata + current object ka data;
      responseData.map((values)=>{
          tableData+=`<tr>
+         
          <td><img src="${values.image}"/></td>
-         <td>${values.name}</td>
+         <td >${values.name}</td>
          <td>${values.symbol}</td>
          <td>$${values.current_price}</td>
         <td>$${values.total_volume}</td>
