@@ -1,15 +1,7 @@
 /*
 var r= " workinng";
 console.log("working");  */
-//async function list(){
-    // 1.name:
-//2.id:
-//3.image:
-//4.symbol:
-//5.current_price:
-//6.total_volume:
 
-//}
 
 
  async function fetchData(){
